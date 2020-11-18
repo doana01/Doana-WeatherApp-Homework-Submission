@@ -1,0 +1,233 @@
+body {
+  background: url(rainynight.jpg) repeat;
+  background-size: 230%;
+  padding-top: 10px; 
+}
+footer {
+text-align: center;
+  color:  #6faec3;
+  font-size: 11px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+.link{
+  color:#6faec3;
+}
+
+.homework2 {
+  max-width: 600px;
+  margin: auto;
+  border: -15px solid #9da1a1;
+  border-radius: 15px;
+background: url(rainynight.jpg) repeat;
+background-size: 200%;
+  padding-left: 35px;
+  padding-top: 5px;
+}
+button{
+  display: block;
+  margin: 0 auto;
+  border:-5px solid slategrey;
+  border-radius: 6px;
+  background-color: #193155;
+ font-size: 10px;
+ color: slategray;
+  padding left: 20px;
+}
+h1{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-family: "Cardo", serif;
+  color: #c6f1ff;
+  font-size: 35px;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+p {
+  text-align: center;
+  font-size: 14px;
+  color:#8eb2d1;
+  font-family: "Fira Sans";
+}
+
+h2 {
+  color: #c6f1ff;
+  font-size: 30px;
+  font-family: "Fira Sans";
+
+}
+
+h3 {
+  font-size: 12px;
+  color:  rgb(226, 235, 245);
+  list-style: none;
+  font-family: Candara;
+  padding-left: 15px;
+
+}
+.temp{
+  border: -5px solid rgb(50, 86, 121);
+  max-width: 25%;
+  border-radius: 2px;
+  color: whitesmoke;
+  font-family: Candara;
+  font-size: 14px;
+
+  }
+ 
+h5 {
+  font-family: "Lucida Sans";
+  font-size: 12px;
+  color: #8eb2d1;
+  padding-top:60px;
+  padding-left: 15px;
+}
+.unit{
+color:#c6f1ff;
+}
+h6 {
+  font-family: "Fira Sans", sans-serif;
+  padding-left: 10px;
+  color: #f6f7bf;
+  padding-right: 30px; 
+}
+
+h4 {
+  font-size: 50px;
+  font-family: Candara;
+ color:#f6f7bf;
+ padding-left: 15px;
+}
+
+ul {
+  position: absolute;
+  top: 260px;
+  left: 250px;
+}
+.daylight {
+  color: #f6f7bf;
+  font-size: 13px;
+  padding-bottom: 5px;
+  padding-left: 50px;
+}
+.sunrise {
+  font-size: 12px; 
+  padding-left: 54px;
+}
+.sunset {
+ font-size: 12px;
+  padding-left: 54px;
+ }
+ .humidity{
+  color: white;
+  font-size: 14px;
+  padding-top: 10px;
+  
+ }
+ .wind{
+  color: white;
+  font-size: 14px;
+ }
+
+
+.button-icon {
+  color: #f6f7bf;
+  padding-bottom: 10px;
+
+}
+.col-3 {
+  font-size: 10px;
+  color:  rgb(226, 235, 245);
+  padding-left:10px;
+}
+img {
+position: relative;
+}
+
+a {
+  color: #a4c9e9;
+}
+.sat {
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color: rgb(226, 235, 245);
+font-family: Candara;
+font-size: 14px;
+}
+.sun{
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color: rgb(226, 235, 245);
+font-family: Candara;
+font-size:  14px;
+}
+.mon{
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color:rgb(226, 235, 245);
+font-family:Candara;
+font-size: 14px;
+}
+.tue{
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color: rgb(226, 235, 245);
+font-family: Candara;
+font-size:  14px;
+}
+.wed{
+  border: -5px solid#494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+  color:rgb(226, 235, 245);
+font-family: Candara;
+font-size: 14px;
+}
+.thu{
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color:rgb(226, 235, 245);
+font-family: font-family:'Cormorant', serif;
+font-size: 14px;
+}
+.fri{
+  border: -5px solid #494949;
+  border-radius: 10px;
+  margin-right: 8px;
+  max-width: 100%;
+color:rgb(226, 235, 245);
+font-family: Candara;
+font-size:  14px;
+}
+.row{
+  padding-top: 5px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+}
+.weather-icon{
+left: 25px;
+margin:0 auto;
+}
+.description{
+  padding-left: 10px;
+}
+.time-logo{
+padding-bottom: 20px;
+}
+.rain-image{
+  top: 20px;
+  left: 30px;
+}
