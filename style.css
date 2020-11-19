@@ -101,7 +101,7 @@ ul {
   color: #f6f7bf;
   font-size: 16px;
   padding-bottom: 5px;
-  padding-left: 50px;
+  padding-left: 75px;
 }
 .sunrise {
   font-size: 14px; 
@@ -222,4 +222,9 @@ padding-bottom: 20px;
 .rain-image{
   top: 20px;
   left: 30px;
+}
+.footprints{
+    color: rgb(170, 203, 236);
+    padding-left: 40%;
+
 }
