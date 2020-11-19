@@ -63,12 +63,11 @@ function displayWeatherCondition(response) {
   document.querySelector("#temperature").innerHTML = Math.round(
     response.data.main.temp
   );
-  document.querySelector("#latitude").innerHTML = response.data.coord.lat;
-  document.querySelector("#longitude").innerHTML = response.data.coord.lon;
+  document.querySelector("#latitude").innerHTML =Math.round(response.data.coord.lat) ;
+  document.querySelector("#longitude").innerHTML = Math.round(response.data.coord.lon);
   document.querySelector("#humidity").innerHTML = response.data.main.humidity;
   document.querySelector("#wind").innerHTML = Math.round(
-    response.data.wind.speed
-  );
+    response.data.wind.speed);
   document.querySelector("#description").innerHTML =
     response.data.weather[0].description;
   document.querySelector("#pressure").innerHTML = response.data.main.pressure;
