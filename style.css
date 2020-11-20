@@ -226,5 +226,8 @@ padding-bottom: 20px;
 .footprints{
     color: rgb(170, 203, 236);
     padding-left: 40%;
-
+}
+hr{
+    max-width: 300px;
+padding-right: 110px;
 }
