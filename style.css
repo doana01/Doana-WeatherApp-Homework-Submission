@@ -1,7 +1,7 @@
 body {
-background: #1e2f47; 
+background-image: url("img/rainynight.jpg");
  background-blend-mode: multiply;
-  background-size: 300%;
+  background-size: 250%;
   padding-top: 20px; 
 }
 footer {
@@ -11,6 +11,7 @@ text-align: center;
   padding-top: 10px;
   padding-bottom: 20px;
   padding-left: 10px;
+  text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .link{
   color:#6faec3;
@@ -18,22 +19,26 @@ text-align: center;
 .homework2 {
   max-width: 600px;
   margin: auto;
-  border: -15px solid #9da1a1;
+  border: -1px solid #c5edfa;
   border-radius: 15px;
-background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
-background-size: 100%;
+background-image: url("img/rainynight.jpg");
+background-size: 200%;
   padding-left: 35px;
   padding-top: 5px;
+   box-shadow: inset 0px 0px 10px 10px rgba(1, 26, 44, 0.9);
+  color: #657380;
 }
 button{
   display: block;
   margin: 0 auto;
   border:-3px solid slategrey;
+  box-shadow: 0px 0px 10px 0px;
   border-radius: 6px;
-  background-color: #193155;
+   background-color: rgb(1, 1, 53);
  font-size: 10px;
  color: slategray;
   padding left: 20px;
+  text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
 }
 h1{
   text-align: center;
@@ -44,6 +49,7 @@ h1{
   font-size: 35px;
   margin-top: 20px;
   padding-left: 10px;
+  text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 p {
   text-align: center;
@@ -55,6 +61,7 @@ h2 {
   color: #c6f1ff;
   font-size: 30px;
   font-family: "Fira Sans";
+  text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 h3 {
   font-size: 12px;
@@ -94,21 +101,21 @@ h4 {
 }
 ul {
   position: absolute;
-  top: 290px;
-  left: 200px;
+  top: 260px;
+  left: 230px;
 }
 .daylight {
   color: #f6f7bf;
-  font-size: 16px;
+  font-size: 15px;
   padding-bottom: 5px;
-  padding-left: 75px;
+  padding-left: 50px;
 }
 .sunrise {
-  font-size: 14px; 
+  font-size: 13px; 
   padding-left: 54px;
 }
 .sunset {
- font-size: 14px;
+ font-size: 13px;
   padding-left: 54px;
  }
  .humidity{
@@ -126,8 +133,7 @@ ul {
 }
 .windy-link{
     font-size: 16px;
-   text-align: center;
-   padding-right: 20px;
+padding-left: 60px;
    
 }
 .col-3 {
@@ -142,8 +148,9 @@ a {
   color: #a4c9e9;
 }
 .sat {
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color: rgb(226, 235, 245);
@@ -151,8 +158,9 @@ font-family: Candara;
 font-size: 14px;
 }
 .sun{
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color: rgb(226, 235, 245);
@@ -160,8 +168,9 @@ font-family: Candara;
 font-size:  14px;
 }
 .mon{
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color:rgb(226, 235, 245);
@@ -169,8 +178,9 @@ font-family:Candara;
 font-size: 14px;
 }
 .tue{
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color: rgb(226, 235, 245);
@@ -178,8 +188,9 @@ font-family: Candara;
 font-size:  14px;
 }
 .wed{
-  border: -5px solid#494949;
+  border: -1px solid#494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
   color:rgb(226, 235, 245);
@@ -187,8 +198,9 @@ font-family: Candara;
 font-size: 14px;
 }
 .thu{
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color:rgb(226, 235, 245);
@@ -196,8 +208,9 @@ font-family: font-family:'Cormorant', serif;
 font-size: 14px;
 }
 .fri{
-  border: -5px solid #494949;
+  border: -1px solid #494949;
   border-radius: 10px;
+  box-shadow: 0px 0px 7px 0px;
   margin-right: 8px;
   max-width: 100%;
 color:rgb(226, 235, 245);
@@ -217,17 +230,11 @@ margin:0 auto;
   padding-left: 10px;
 }
 .time-logo{
-padding-bottom: 20px;
+padding-bottom: 10px;
+padding-right: 5px;
 }
 .rain-image{
   top: 20px;
   left: 30px;
 }
-.footprints{
-    color: rgb(170, 203, 236);
-    padding-left: 40%;
-}
-hr{
-    max-width: 300px;
-padding-right: 110px;
-}
+
