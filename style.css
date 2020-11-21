@@ -56,6 +56,7 @@ p {
   font-size: 14px;
   color:#8eb2d1;
   font-family: "Fira Sans";
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 h2 {
   color: #c6f1ff;
@@ -69,6 +70,7 @@ h3 {
   list-style: none;
   font-family: Candara;
   padding-left: 15px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .temp{
   border: -5px solid rgb(50, 86, 121);
@@ -77,12 +79,14 @@ h3 {
   color: whitesmoke;
   font-family: Candara;
   font-size: 14px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
  h5 {
   font-family: "Lucida Sans";
   font-size: 10px;
   color: #8eb2d1;
   padding-top:60px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .unit{
 color:#c6f1ff;
@@ -92,40 +96,48 @@ h6 {
   padding-left: 10px;
   color: #f6f7bf;
   padding-right: 30px; 
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 h4 {
   font-size: 50px;
   font-family: Candara;
  color:#f6f7bf;
  padding-left: 15px;
+  text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 ul {
   position: absolute;
   top: 260px;
   left: 230px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .daylight {
   color: #f6f7bf;
   font-size: 15px;
   padding-bottom: 5px;
   padding-left: 50px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .sunrise {
   font-size: 13px; 
   padding-left: 54px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .sunset {
  font-size: 13px;
   padding-left: 54px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
  }
  .humidity{
   color: white;
   font-size: 14px;
   padding-top: 10px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
  .wind{
   color: white;
   font-size: 14px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
  }
 .button-icon {
   color: #f6f7bf;
@@ -134,12 +146,14 @@ ul {
 .windy-link{
     font-size: 16px;
 padding-left: 60px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
    
 }
 .col-3 {
   font-size: 10px;
   color:  rgb(226, 235, 245);
   padding-left: 5px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 img {
 position: relative;
@@ -156,6 +170,7 @@ a {
 color: rgb(226, 235, 245);
 font-family: Candara;
 font-size: 14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .sun{
   border: -1px solid #494949;
@@ -166,6 +181,7 @@ font-size: 14px;
 color: rgb(226, 235, 245);
 font-family: Candara;
 font-size:  14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .mon{
   border: -1px solid #494949;
@@ -176,6 +192,7 @@ font-size:  14px;
 color:rgb(226, 235, 245);
 font-family:Candara;
 font-size: 14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .tue{
   border: -1px solid #494949;
@@ -186,6 +203,7 @@ font-size: 14px;
 color: rgb(226, 235, 245);
 font-family: Candara;
 font-size:  14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .wed{
   border: -1px solid#494949;
@@ -196,6 +214,7 @@ font-size:  14px;
   color:rgb(226, 235, 245);
 font-family: Candara;
 font-size: 14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .thu{
   border: -1px solid #494949;
@@ -206,6 +225,7 @@ font-size: 14px;
 color:rgb(226, 235, 245);
 font-family: font-family:'Cormorant', serif;
 font-size: 14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .fri{
   border: -1px solid #494949;
@@ -216,6 +236,7 @@ font-size: 14px;
 color:rgb(226, 235, 245);
 font-family: Candara;
 font-size:  14px;
+ text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .row{
   padding-top: 5px;
@@ -228,6 +249,7 @@ margin:0 auto;
 }
 .description{
   padding-left: 10px;
+   text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .time-logo{
 padding-bottom: 10px;
