@@ -109,24 +109,19 @@ h4 {
 }
 ul {
   position: absolute;
-  top: 260px;
-  left: 230px;
+  top: 280px;
+  left: 250px;
    text-shadow: 0px 0px 10px rgba(255,255,255,0.7);
 }
 .daylight {
-  color: #f6f7bf;
-  font-size: 15px;
   padding-bottom: 5px;
   padding-left: 50px;
   }
 .sunrise {
-  font-size: 13px; 
+  font-size: 15px; 
   padding-left: 54px;
  }
-.sunset {
- font-size: 13px;
-  padding-left: 54px;
- }
+
  .humidity{
   color: white;
   font-size: 14px;
@@ -156,6 +151,7 @@ padding-left: 60px;
 }
 img {
 position: relative;
+left: 35px;
 }
 a {
   color: #a4c9e9;
